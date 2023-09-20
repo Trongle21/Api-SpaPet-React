@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Avoderm",
+      "price": 13,
+      "description": "AvoDerm Grain Free Advanced Healthy Weight Turkey Meal Recipe Dry Dog Food",
+      "detail": "Dòng sản phẩm đặc biệt của chúng tôi, không chứa ngũ cốc, dành cho chó trưởng thành ít hoạt động hoặc chỉ cần giảm một chút cân nặng. Thức ăn cho chó AvoDerm Natural cung cấp các protein cần thiết để giúp chó duy trì chất lượng cuộc sống của họ, ngay cả khi họ đang giảm cân. Ngoài ra, sản phẩm này còn chứa L-Carnitine, một hợp chất giúp phân giải mỡ, và chondroitin sulfate và glucosamine tự nhiên để duy trì các khớp khỏe mạnh và hỗ trợ các hoạt động duy trì cân nặng khỏe mạnh. Chúng tôi còn bổ sung công thức cao cấp này với bơ hấp dẫn giàu omega được trồng tại California. Những thực phẩm siêu dinh dưỡng này giúp thú cưng duy trì sức khỏe tốt và làn da khỏe mạnh để bộ lông của chó luôn bóng loáng suốt cả mùa.",
+      "thumbnail": "https://i.ibb.co/mGkW4s0/product-dog-1.webp",
+      "images": [
+        "https://i.ibb.co/mGkW4s0/product-dog-1.webp",
+        "https://i.ibb.co/yqwGwnh/dog1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Avoderm",
+      "price": 3,
+      "description": "AvoDerm GRAIN FREE BEEF & POTATO STEW RECIPE",
+      "detail": "AvoDerm Natural Beef & Potato Stew Recipe là một loại thức ăn không chứa ngũ cốc dành cho chó, cung cấp nguồn protein chất lượng lý tưởng cho chó có vấn đề về sự không dung nạp đối với các nguồn protein khác, như chó nhạy cảm với thức ăn chứa gà. Sử dụng công thức hầm khoai tây, thức ăn cho chó này cũng phù hợp cho chó có vấn đề về sự không dung nạp hoặc nhạy cảm với gạo. AvoDerm chỉ sử dụng các thành phần chất lượng cao, bao gồm bơ giàu omega, để cung cấp các mức độ protein, chất béo và dưỡng chất cân đối và lành mạnh cho chó trưởng thành.",
+      "thumbnail": "https://i.ibb.co/j3XPHMF/product-dog-2.webp",
+      "images": [
+        "https://i.ibb.co/j3XPHMF/product-dog-2.webp",
+        "https://i.ibb.co/pxxmrDS/dog2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Avoderm",
+      "price": 17,
+      "description": "AVODERM GRAIN FREE BEEF & VEGETABLE RECIPE DRY DOG FOOD",
+      "detail": "Thức ăn khô cho chó AvoDerm Grain Free Beef & Vegetables Recipe cung cấp dinh dưỡng cân đối và lành mạnh cho chó của bạn với các thành phần chất lượng cao bao gồm bơ California tự nhiên để đảm bảo bạn đang cung cấp dinh dưỡng tối ưu cho chó của mình. Với thành phần không chứa lúa mì, không chứa ngô và không chứa ngũ cốc cùng với bơ lúa mì, công thức này rất lý tưởng cho những chó có vấn đề về sự nhạy cảm hoặc không dung nạp đối với lúa mì, ngô và các loại ngũ cốc. Sử dụng thịt bò và rau cải, sản phẩm này phù hợp cho chó có vấn đề về sự nhạy cảm đối với gà và gạo. Có sẵn trong các túi 4 và 24 pounds.",
+      "thumbnail": "https://i.ibb.co/SJXYnF0/product-dog-3.webp",
+      "images": [
+        "https://i.ibb.co/SJXYnF0/product-dog-3.webp",
+        "https://i.ibb.co/tMDdjk8/dog3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Avoderm",
+      "price": 3,
+      "description": "AVODERM GRAIN FREE CHICKEN & VEGETABLE STEW RECIPE",
+      "detail": "AvoDerm Natural Chicken & Vegetable Stew là một loại thức ăn không chứa ngũ cốc dành cho chó với bơ, cung cấp nguồn protein chất lượng cao lý tưởng cho chó có vấn đề về sự nhạy cảm đối với các nguồn protein khác như bò hoặc gà. AvoDerm chỉ sử dụng các thành phần chất lượng cao, bao gồm bơ giàu omega, để cung cấp các mức độ protein, chất béo và dưỡng chất cân đối và lành mạnh cho chó trưởng thành.",
+      "thumbnail": "https://i.ibb.co/kqS7Nv0/product-dog-4.webp",
+      "images": [
+        "https://i.ibb.co/kqS7Nv0/product-dog-4.webp",
+        "https://i.ibb.co/DgKM10T/dog4.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Avoderm",
+      "price": 21,
+      "description": "AVODERM GRAIN FREE SALMON & VEGETABLE RECIPE DRY DOG FOOD",
+      "detail": "AvoDerm Natural Grain Free Salmon & Vegetables Recipe là một loại thức ăn không chứa ngũ cốc dành cho chó, không chứa lúa mì và không chứa ngô, làm cho nó rất lý tưởng cho chó có vấn đề về sự nhạy cảm đối với ngũ cốc, lúa mì hoặc ngô. Thành phần đầu tiên là cá hồi, cung cấp nguồn protein cao cấp cho chó của bạn. Cá hồi có phải là một nguồn thức ăn tốt cho chó có vấn đề về sự nhạy cảm không? Đúng vậy, nếu chó của bạn có vấn đề về sự nhạy cảm đối với các nguồn protein khác như gà, bò, gà tây hoặc cừu. Với bơ California tự nhiên, chó của bạn sẽ nhận được gần 20 loại vitamin để có làn da và lớp lông khỏe mạnh.",
+      "thumbnail": "https://i.ibb.co/dmB9YrV/product-dog-5.png",
+      "images": [
+        "https://i.ibb.co/dmB9YrV/product-dog-5.png",
+        "https://i.ibb.co/hfc7NM2/dog5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Avoderm",
+      "price": 66,
+      "description": "AVODERM NATURAL ADVANCED SENSITIVE SUPPORT SALMON & OATMEAL FORMULA",
+      "detail": "Thức ăn AvoDerm® Advanced Sensitive Support Wholesome Grains Salmon & Oatmeal được chế biến đặc biệt để hỗ trợ chó có vấn đề về sự nhạy cảm hoặc không dung nạp thức ăn. Công thức này là một công thức chế độ ăn giới hạn thành phần được làm từ cá hồi là thành phần đầu tiên và nguồn protein động vật duy nhất. Công thức này cũng chứa một hỗn hợp độc đáo gồm yến mạch, bí đỏ và chất xơ để hỗ trợ việc tiêu hóa dễ dàng hơn và các axit béo omega để hỗ trợ làn da nhạy cảm.",
+      "thumbnail": "https://i.ibb.co/gDxfbS4/product-dog-6.webp",
+      "images": [
+        "https://i.ibb.co/gDxfbS4/product-dog-6.webp",
+        "https://i.ibb.co/9pQ3hN6/dog6.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Avoderm",
+      "price": 54,
+      "description": "AVODERM NATURAL PUPPY CHICKEN MEAL AND BROWN RICE",
+      "detail": "Như những người yêu chó và đã có kinh nghiệm nuôi chó, chúng tôi hiểu rằng tình trạng da và lớp lông của chó thường là một phản ánh về sức khỏe tổng thể. Sức khỏe da kém có thể đôi khi được liên kết với sự thiếu hụt hoặc mất cân đối dinh dưỡng trong chế độ ăn.",
+      "thumbnail": "https://i.ibb.co/cbV0ZF4/product-dog-7.webp",
+      "images": [
+        "https://i.ibb.co/cbV0ZF4/product-dog-7.webp",
+        "https://i.ibb.co/KXJMhKt/dog7.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Avoderm",
+      "price": 19,
+      "description": "AVODERM REVOLVING MENU GRAIN FREE DUCK RECIPE",
+      "detail": "Giống như con người, chó cũng muốn có sự đa dạng trong thức ăn! Hãy thử cho chó của bạn thử tất cả các công thức dinh dưỡng của chúng tôi theo luân phiên mà không cần lo lắng về việc dạ dày bị loạn. Khi cho ăn thức ăn cho chó AvoDerm Natural® Revolving Menu®, bạn có thể chọn chỉ cho chó ăn một công thức hoặc bất kỳ sự kết hợp nào trên menu. Các công thức này đã được chế biến đặc biệt để cho phép việc cho ăn theo luân phiên, vì vậy bạn có thể cảm thấy tự tin về việc nuôi dưỡng chó của mình. Tất cả các công thức của chúng tôi đều cung cấp dinh dưỡng cân đối và lành mạnh cho chó của bạn. Các thành phần chất lượng cao đảm bảo bạn đang cung cấp dinh dưỡng tối ưu mà chó của bạn cần.",
+      "thumbnail": "https://i.ibb.co/60KXrZd/product-dog-8.webp",
+      "images": [
+        "https://i.ibb.co/60KXrZd/product-dog-8.webp",
+        "https://i.ibb.co/YjvJSpw/dog8.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Avoderm",
+      "price": 67,
+      "description": "AVODERM JOINT HEALTH ADULT GRAIN FREE CHICKEN MEAL FORMULA DRY DOG FOOD",
+      "detail": "AvoDerm Natural Joint Health Grain Free Chicken Meal Formula cung cấp dinh dưỡng cân đối và lành mạnh cho chó của bạn với những lợi ích bổ sung từ chondroitin sulfate và glucosamine tự nhiên để duy trì các khớp khỏe mạnh. Được chế biến đặc biệt với chondroitin sulfate và glucosamine tự nhiên được trích từ sụn gà thật, không phải là sản phẩm tổng hợp hoặc chiết xuất hóa học. Với công thức không chứa lúa mì, không chứa ngô và không chứa ngũ cốc cùng với bơ, công thức này phù hợp cho chó có vấn đề về sự nhạy cảm đối với lúa mì, ngô, đậu nành và các loại ngũ cốc.",
+      "thumbnail": "https://i.ibb.co/6v7pGLq/product-dog-9.webp",
+      "images": [
+        "https://i.ibb.co/6v7pGLq/product-dog-9.webp",
+        "https://i.ibb.co/yqwGwnh/dog1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Avoderm",
+      "price": 13,
+      "description": "AvoDerm GRAIN FREE BEEF & POTATO STEW RECIPE",
+      "detail": "AvoDerm® Small Breed Chicken Meal & Brown Rice Recipe là lựa chọn lý tưởng cho những chó dưới 20 pounds với dinh dưỡng tối ưu trong từng viên thức ăn nhỏ gọn. Các thành phần chất lượng cao như bơ giàu omega đảm bảo bạn đang cung cấp dinh dưỡng tối ưu cho chó của bạn. Không có lúa mì, ngô, và không có hương liệu nhân tạo, thức ăn cho chó này rất lý tưởng cho thú cưng có vấn đề về sự nhạy cảm hoặc không dung nạp thức ăn.",
+      "thumbnail": "https://i.ibb.co/JdzP2b1/product-dog-10.webp",
+      "images": [
+        "https://i.ibb.co/JdzP2b1/product-dog-10.webp",
+        "https://i.ibb.co/yqwGwnh/dog1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bark & Harvest",
+      "price": 15,
+      "description": "BARK & HARVEST HYDEOUT® CHEEK ROLLS",
+      "detail": "Khi nào một miếng da bò không còn là miếng da bò? Khi nó là HydeOut®! Các HydeOut® Beef Cheek Rolls của chúng tôi là các món ăn nhẹ được làm từ thịt bò (da trên cổ) và khác biệt hoàn toàn so với da bò truyền thống. Chúng tôi rất vui được cung cấp sự thay thế không gây lo lắng này cho món ăn nhẹ da bò truyền thống.",
+      "thumbnail": "https://i.ibb.co/rwnYDSf/product-dog-11.webp",
+      "images": [
+        "https://i.ibb.co/rwnYDSf/product-dog-11.webp",
+        "https://i.ibb.co/yqwGwnh/dog1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bark ,N Big",
+      "price": 15,
+      "description": "BARK 'N BIG BEEF BULLY STICK",
+      "detail": "BarknBig Beef Bully Stick được làm từ phôi bò được kiểm tra bởi USDA. Miếng xương dẻo chất lượng cao này sẽ giữ cho chó của bạn vui chơi trong nhiều giờ liền. Miếng gặm không mùi này an toàn để chó thưởng thức trong nhà. Luôn luôn giám sát chó của bạn khi chúng đang cắn hoặc nhai bất kỳ loại xương hoặc thức ăn nhẹ nào.",
+      "thumbnail": "https://i.ibb.co/Jzq7FRQ/product-dog-12.webp",
+      "images": [
+        "https://i.ibb.co/Jzq7FRQ/product-dog-12.webp",
+        "https://i.ibb.co/jzs30r5/product-dog-detail-12.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bark ,N Big",
+      "price": 13,
+      "description": "BARK 'N BIG BEEF HALF SHIN BONE",
+      "detail": "BarknBig Beef Shin Bone là sản phẩm phổ biến nhất trên trang web BarknBig.com. Half Shin Bone là cùng một sản phẩm nhưng đã được cắt làm hai để lộ ra phần tủy xương. Kích thước nhỏ hơn này cung cấp cho những chó nhỏ có thói quen nhai mạnh mẽ một lựa chọn nhai lành mạnh và bền vững.",
+      "thumbnail": "https://i.ibb.co/V2ck0yZ/product-dog-13.webp",
+      "images": [
+        "https://i.ibb.co/V2ck0yZ/product-dog-13.webp",
+        "https://i.ibb.co/V2ck0yZ/product-dog-13.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Bark ,N Big",
+      "price": 10,
+      "description": "BARK 'N BIG BEEF MARROW",
+      "detail": "Xương tủy 6 của BarknBig là một sản phẩm phổ biến. Xương này đã được cắt để lộ ra tủy, giúp cho chó của bạn dễ dàng thưởng thức.",
+      "thumbnail": "https://i.ibb.co/gRfsHmB/product-dog-14.webp",
+      "images": [
+        "https://i.ibb.co/gRfsHmB/product-dog-14.webp",
+        "https://i.ibb.co/gRfsHmB/product-dog-14.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Bark ,N Big",
+      "price": 18,
+      "description": "AvoDerm GRAIN FREE BEEF & POTATO STEW RECIPE",
+      "detail": "BarknBig Tendon Fillets làm từ các sợi gân dài từ 4-6 inches (khoảng 10-15 cm). Mỗi sợi gân này giàu axit hyaluronic giúp thú cưng duy trì hông và khớp khỏe mạnh. Tính chất mật độ cao của gân cũng giúp làm sạch răng miệng. 'Fillet' có nghĩa là gân đã được cắt để giảm bớt mỡ thừa.",
+      "thumbnail": "https://i.ibb.co/VJJ3tdR/product-dog-15.webp",
+      "images": [
+        "https://i.ibb.co/VJJ3tdR/product-dog-15.webp",
+        "https://i.ibb.co/VJJ3tdR/product-dog-15.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT CHICKEN WITH VEGETABLES PURÉE",
+      "detail": "Fussie Cat Chicken with Vegetables Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Chicken with Vegetables Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/rbT0C1R/product-cat-1.webp",
+      "images": [
+        "https://i.ibb.co/rbT0C1R/product-cat-1.webp",
+        "https://i.ibb.co/jZRvznP/product-cat-detail-1.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT CHICKEN PURÉE",
+      "detail": "Fussie Cat Chicken Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Chicken Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/41qrZ1Y/product-cat-2.webp",
+      "images": [
+        "https://i.ibb.co/41qrZ1Y/product-cat-2.webp",
+        "https://i.ibb.co/F8HL9Qm/product-cat-detail-2.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT CHICKEN WITH BEEF PURÉE",
+      "detail": "Fussie Cat Chicken with Beef Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Chicken with Beef Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/k59JD43/product-cat-3.webp",
+      "images": [
+        "https://i.ibb.co/k59JD43/product-cat-3.webp",
+        "https://i.ibb.co/1MxWWWV/product-cat-detail-3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT CHICKEN WITH LIVER PURÉE",
+      "detail": "Fussie Cat Chicken with Liver Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Chicken with Liver Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/C7vShQS/product-cat-4.webp",
+      "images": [
+        "https://i.ibb.co/C7vShQS/product-cat-4.webp",
+        "https://i.ibb.co/pvK0zX2/product-cat-detail-4.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Fussie Cat",
+      "price": 8,
+      "description": "FUSSIE CAT MARKET FRESH GRAIN FREE CHICKEN & TURKEY RECIPE DRY CAT FOOD",
+      "detail": "Thức ăn siêu cao cấp không chứa khoai tây và ngũ cốc, được ĐIỀU CHỈNH SINH LÝ THEO THỊ TRƯỜNG™ DÀNH CHO MÈO. Các công thức Market Fresh của chúng tôi được tạo ra với những thành phần tươi ngon và tốt nhất. Như Gà và Thịt gia cầm, chúng cung cấp một nguồn protein hoàn chỉnh và chất lượng cao, là một nguồn tuyệt vời của Vitamin B12, Riboflavin và Phosphorus. Không chỉ Gà và Thịt gia cầm là thành phần đầu tiên trong công thức Market Fresh này, chúng cũng rất thích hợp cho mèo về việc thưởng thức.",
+      "thumbnail": "https://i.ibb.co/G2xMSDS/product-cat-5.jpg",
+      "images": [
+        "https://i.ibb.co/G2xMSDS/product-cat-5.jpg",
+        "https://i.ibb.co/GcQTnLS/product-cat-detail-5.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Fussie Cat",
+      "price": 9,
+      "description": "FUSSIE CAT MARKET FRESH GRAIN FREE GUINEA FOWL & TURKEY MEAL",
+      "detail": "Fussie Cat sản xuất thực phẩm chất lượng hàng đầu của họ tại một nhà bếp được đăng ký FDA - cùng một nhà bếp sản xuất thực phẩm đóng hộp phù hợp để con người tiêu thụ. Các cuộc kiểm tra chất lượng kỹ lưỡng được tiến hành hàng ngày để đảm bảo an toàn thực phẩm, chất nặng, tác nhân gây bệnh, ô nhiễm và thuốc trừ sâu, để sản phẩm cuối cùng là mọi thứ mà bạn nên mong đợi. Được chế biến để đáp ứng các mức dinh dưỡng được xác định bởi AAFCO Cat Food Nutrient Profiles cho việc duy trì sức khỏe của người lớn.",
+      "thumbnail": "https://i.ibb.co/9r7qXS2/product-cat-6.jpg",
+      "images": [
+        "https://i.ibb.co/9r7qXS2/product-cat-6.jpg",
+        "https://i.ibb.co/nBDKRcF/product-cat-detail-6.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Fussie Cat",
+      "price": 10,
+      "description": "FUSSIE CAT MARKET FRESH GRAIN FREE SALMON RECIPE DRY CAT FOOD",
+      "detail": "PHYSIOLOGICALLY TUNED™ THỰC PHẨM SIÊU CAO CẤP ĐẦU TIÊN LÀ THỊT, KHÔNG CHỨA KHOAI TÂY VÀ NGŨ CỐC DÀNH CHO MÈO. Các công thức Market Fresh của chúng tôi được tạo ra với những thành phần tươi ngon và tốt nhất. Như cá hồi, chúng cung cấp một nguồn protein hoàn chỉnh và chất lượng cao, là một nguồn tuyệt vời của Vitamin B12 cùng với cả Omega-3 và Omega-6 Fatty Acids. Không chỉ là thành phần đầu tiên trong công thức Market Fresh, nó cũng là một trong những loại thực phẩm ngon nhất cho mèo.",
+      "thumbnail": "https://i.ibb.co/YbWrTxt/product-cat-7.jpg",
+      "images": [
+        "https://i.ibb.co/YbWrTxt/product-cat-7.jpg",
+        "https://i.ibb.co/PDrjzSR/product-cat-detail-7.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT OCEANFISH PURÉE",
+      "detail": "Fussie Cat Oceanfish Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Oceanfish Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/qNQZrHd/product-cat-8.webp",
+      "images": [
+        "https://i.ibb.co/qNQZrHd/product-cat-8.webp",
+        "https://i.ibb.co/dfWjx59/product-cat-detail-8.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT SARDINE PURÉE",
+      "detail": "Fussie Cat Sardine Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Sardine Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/ncwQPH5/product-cat-9.webp",
+      "images": [
+        "https://i.ibb.co/ncwQPH5/product-cat-9.webp",
+        "https://i.ibb.co/2M5Cg3J/product-cat-detail-9.png"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Fussie Cat",
+      "price": 4,
+      "description": "FUSSIE CAT TUNA WITH OCEAN FISH PURÉE",
+      "detail": "Fussie Cat Tuna with Ocean Fish Purée là sự yêu thích ngay từ lần liếm đầu tiên. Với cấu trúc mềm mịn và hương vị đậm đà, hỗn hợp ngon miệng này sẽ khiến ngay cả những chú mèo khó tính nhất cũng đòi hỏi thêm nhiều hơn! Fussie Cat Tuna with Ocean Fish Purée là một loại bữa ăn cho mèo dễ cho mèo ăn, cung cấp vitamin E cần thiết cho chế độ ăn của mèo để hỗ trợ làn da và lớp lông khỏe mạnh. Bí quyết của Fussie Cat để có được một hỗn hợp hoàn hảo là chúng tôi luôn sử dụng các thành phần đơn giản và lành mạnh được tìm kiếm cẩn thận. Không chỉ ngon mà còn đầy đủ các vitamin và khoáng chất dinh dưỡng, khiến nó trở thành một sự bổ sung lý tưởng cho chế độ ăn hàng ngày của mèo của bạn.",
+      "thumbnail": "https://i.ibb.co/71stDPs/product-cat-10.webp",
+      "images": [
+        "https://i.ibb.co/71stDPs/product-cat-10.webp",
+        "https://i.ibb.co/N29bRM6/product-cat-detail-10.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Smallbatch Pets",
+      "price": 13,
+      "description": "SMALLBATCH FREEZE DRIED TURKEY HEARTS",
+      "detail": "Bánh thưởng đơn thành phần cho chó và mèo. Bánh thưởng tuyệt vời cho thú cưng có vấn đề về dị ứng và là một nguồn tuyệt vời của protein.",
+      "thumbnail": "https://i.ibb.co/MPvdvLj/product-cat-11.webp",
+      "images": [
+        "https://i.ibb.co/MPvdvLj/product-cat-11.webp",
+        "https://i.ibb.co/MPvdvLj/product-cat-11.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Smallbatch Pets",
+      "price": 19,
+      "description": "SMALLBATCH FROZEN BEEF BONE BROTH",
+      "detail": "Chảy chậm từ xương hữu cơ, cà rốt hữu cơ và nước lọc để tạo ra một loại nước dùng giàu collagen, khoáng chất và axit amino. Lý tưởng cho việc hỗ trợ sức khỏe cơ xương, xương chắc khỏe và sự phục hồi của niêm mạc dạ dày. Thêm độ ẩm bằng cách đặt lên bất kỳ bữa ăn nào hoặc dùng như một loại bánh thưởng. Dành cho chó và mèo.",
+      "thumbnail": "https://i.ibb.co/K2r0Qwk/product-cat-12.webp",
+      "images": [
+        "https://i.ibb.co/K2r0Qwk/product-cat-12.webp",
+        "https://i.ibb.co/K2r0Qwk/product-cat-12.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Smallbatch Pets",
+      "price": 19,
+      "description": "SMALLBATCH FREEZE DRIED TURKEY HEARTS",
+      "detail": "Chảy chậm từ xương hữu cơ, cà rốt hữu cơ và nước lọc để tạo ra một loại nước dùng giàu collagen, khoáng chất và axit amin. Lý tưởng để hỗ trợ sức khỏe khớp, xương chắc khỏe và sự phục hồi của niêm mạc dạ dày. Thêm độ ẩm bằng cách đặt lên bất kỳ bữa ăn nào hoặc dùng như một loại bánh thưởng. Dành cho chó và mèo.",
+      "thumbnail": "https://i.ibb.co/x2jwBr9/product-cat-13.webp",
+      "images": [
+        "https://i.ibb.co/x2jwBr9/product-cat-13.webp",
+        "https://i.ibb.co/x2jwBr9/product-cat-13.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Smallbatch Pets",
+      "price": 28,
+      "description": "SMALLBATCH FROZEN DUCKBATCH CAT FOOD",
+      "detail": "97% vịt được nuôi và thu hoạch một cách nhân đạo, 1% sản phẩm hữu cơ, 2% bổ sung tự nhiên bao gồm cả thịt vịt cùng xương, gan vịt, tim vịt, bao tử vịt, dầu cá hồi, lá cỏ xanh dente hữu cơ, giấm táo hữu cơ, rong biển hữu cơ*, phấn hoa ong hữu cơ, cỏ lúa mạch hữu cơ, quả việt quất hữu cơ, bổ sung vitamin E.",
+      "thumbnail": "https://i.ibb.co/Yk4bzYm/product-cat-14.webp",
+      "images": [
+        "https://i.ibb.co/Yk4bzYm/product-cat-14.webp",
+        "https://i.ibb.co/Yk4bzYm/product-cat-14.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Smallbatch Pets",
+      "price": 22,
+      "description": "SMALLBATCH FROZEN LAMBBATCH CAT FOOD",
+      "detail": "",
+      "thumbnail": "https://i.ibb.co/WWFpk50/product-cat-15.webp",
+      "images": [
+        "https://i.ibb.co/WWFpk50/product-cat-15.webp",
+        "https://i.ibb.co/WWFpk50/product-cat-15.webp"
+      ]
+    }
+  ]
+}
