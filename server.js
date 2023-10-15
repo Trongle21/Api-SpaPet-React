@@ -1,10 +1,14 @@
 const jsonServer = require("json-server");
-const cors = require("cors"); // Import cors library
+const cors = require("cors");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
-server.use(cors()); // Enable CORS for all routes
+const corsOptions = {
+  origin: "http://localhost:3000", // Chỉ cho phép truy cập từ origin này
+};
+
+server.use(cors(corsOptions));
 server.use(middlewares);
 server.use(
   jsonServer.rewriter({
